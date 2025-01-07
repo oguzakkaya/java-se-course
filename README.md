@@ -4,33 +4,29 @@ This repository contains comprehensive materials and practical exercises for the
 
 ## 🎯 Course Overview
 
-A structured learning path to master Java SE programming, covering both fundamental and advanced topics.
+A structured learning path to master Java SE programming, covering both fundamental and advanced topics through practical examples.
 
 ## 📚 Course Content
 
 ### 1. Java Fundamentals
-- Introduction to Java
-- Variables and Data Types
-- Operators and Control Flow
-- Arrays and Strings
-- Methods and Functions
+- Hello World (`java-001-hello-world`)
+- Variables and Data Types (`java-002-variables`)
+- Control Flow:
+  - Loops (`java-003-loops`)
+  - If-Else Statements (`java-004-if-ifelse`)
+  - Switch Statements (`java-005-switch`)
+- Methods and Functions (`java-006-methods`)
+- Arrays (`java-007-arrays`)
 
 ### 2. Object-Oriented Programming (OOP)
-- Classes and Objects
-- Inheritance
-- Polymorphism
-- Encapsulation
-- Abstraction
-- Interfaces
-
-### 3. Advanced Java Concepts
-- Data Structures
-- Exception Handling
-- File I/O Operations
-- Collections Framework
-- Generics
-- Multithreading
-- JDBC (Database Connectivity)
+- Classes and Objects (`java-008-class-object`)
+- Composition (`java-009-komposizyon`)
+- Encapsulation (`java-010-encapsulation`)
+- Inheritance (`java-011-inheritance-miras-kalitim`)
+- Polymorphism:
+  - Basic Concepts (`java-012-polymorphism-cok-bicimlilik`)
+  - Advanced Implementation (`java-013-polymorphism-cok-bicimlilik`)
+- Interfaces (`java-014-interface-arayuz`)
 
 ## 🔧 Prerequisites
 
@@ -45,34 +41,41 @@ A structured learning path to master Java SE programming, covering both fundamen
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/java-se-course.git
+   git clone https://github.com/oguzakkaya/java-se-course.git
    ```
 2. Open the project in your preferred IDE
-3. Navigate through the course modules in order
-4. Complete the exercises in each section
-5. Practice with provided example code
+3. Navigate through the modules in order, starting from `java-001-hello-world`
+4. Each module contains its own examples and exercises
+5. Practice with the provided code examples
 
 ## 📂 Project Structure
 
 ```
-src/
-├── basics/          # Java fundamentals
-├── oop/            # Object-oriented programming concepts
-├── datastructures/ # Data structures implementations
-├── exceptions/     # Exception handling examples
-├── fileio/         # File operations
-├── collections/    # Collections framework
-├── threads/        # Multithreading examples
-└── jdbc/          # Database connectivity
+.
+├── java-001-hello-world/           # Introduction to Java
+├── java-002-variables/             # Variables and Data Types
+├── java-003-loops/                 # Loop Structures
+├── java-004-if-ifelse/            # Conditional Statements
+├── java-005-switch/               # Switch Statements
+├── java-006-methods/              # Methods and Functions
+├── java-007-arrays/               # Array Operations
+├── java-008-class-object/         # Classes and Objects
+├── java-009-komposizyon/          # Composition
+├── java-010-encapsulation/        # Encapsulation
+├── java-011-inheritance-miras-kalitim/    # Inheritance
+├── java-012-polymorphism-cok-bicimlilik/  # Basic Polymorphism
+├── java-013-polymorphism-cok-bicimlilik/  # Advanced Polymorphism
+└── java-014-interface-arayuz/             # Interfaces
 ```
 
 ## 📝 Study Tips
 
-1. Follow the modules in sequence
-2. Complete all exercises in each section
+1. Follow the modules in sequence, starting from basics
+2. Complete all exercises in each module
 3. Practice coding regularly
 4. Review previous concepts when needed
 5. Try to understand the concepts through practical examples
+6. Each module contains specific examples - make sure to study them thoroughly
 
 ## 🤝 Contributing
 
