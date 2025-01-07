@@ -99,15 +99,3 @@ The repository is organized into multiple modules, each focusing on specific asp
 4. Review previous concepts when needed
 5. Try to understand the concepts through practical examples
 6. For advanced topics, ensure you understand the prerequisites before proceeding
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit issues and enhancement requests.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📬 Contact
-
-For any questions or feedback, please open an issue in the repository.
